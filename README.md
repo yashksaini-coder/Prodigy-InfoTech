@@ -1,4 +1,4 @@
-#Prodigy-InfoTech
+Prodigy-InfoTech
 Welcome to the ProdigyInfoTech Machine Learning Engineer Projects Repository! Here, you'll find a collection of cutting-edge projects developed by our talented team of machine learning engineers. This repository serves as a showcase of our commitment to innovation and excellence in the field of machine learning.
 
 Our Projects: Explore a diverse range of projects that span across various domains, including natural language processing, computer vision, reinforcement learning, and more. Each project is a testament to the skills, creativity, and dedication of our team in solving real-world challenges through the power of machine learning.
